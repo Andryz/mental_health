@@ -725,7 +725,7 @@ ul.one-to-one li:after {
   margin-bottom: 30px;
 }
 .chat-apps ul {
-  width: 1200px;
+  width: 1140px;
   margin: 0 auto;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -737,11 +737,11 @@ ul.one-to-one li:after {
   flex-wrap: wrap;
 }
 .chat-apps ul li {
-  width: 260px;
+  width: 249px;
   margin: 40px 18px 7px;
   background: #fff;
-  -webkit-box-shadow: 10px 13px 36px 0 rgba(67, 94, 224, 0.17);
-  box-shadow: 10px 13px 36px 0 rgba(67, 94, 224, 0.17);
+  -webkit-box-shadow: 2px 13px 36px 0 rgba(67, 94, 224, 0.17);
+  box-shadow: 2px 13px 36px 0 rgba(67, 94, 224, 0.17);
   padding: 30px 20px;
   border-radius: 10px;
   position: relative;
