@@ -1059,11 +1059,11 @@ footer .copy-right {
   color: #fff
 }
 .bottom-cta span svg {
-  width: 45px;
-  height: 45px;
+  width: 30px;
+  height: 30px;
   display: inline-block;
   vertical-align: middle;
-  margin-right: -10px;
+  /* margin-right: -10px; */
 }
 .bottom-cta p {
   font-family: 'lato_regular';
