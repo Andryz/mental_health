@@ -1810,9 +1810,25 @@ img {
   width: 525px;
 }
 
+.features-img img.lazy-communication.doctor-patient{
+  height: 500px;
+  width: 525px;
+}
+
 .features-img img.lazy-communication.tracking {
   height: 380px;
   width: 525px;
+}
+
+@media (max-width: 700px) {
+  .features-img img.lazy-communication.doctor-patient{
+    height: 345px;
+    width: 345px;
+  }
+  .features-img img.lazy-communication.tracking {
+    height: 245px;
+    width: 345px;
+  }
 }
 
 .features-img img.lazy-data {
